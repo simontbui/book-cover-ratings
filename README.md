@@ -1,4 +1,4 @@
-# Classification of eBook Ratings by Cover
+# Classification of eBook Ratings by Their Covers
 ## Problem & Motivations
 I publish eBooks on Amazon's Kindle store. One of the struggles in the business is to identify what covers to use when publishing a story. The current decision-making approach is based off of intuition and subjective preference. Typically, hypothesis testing and other approaches would be used to more systematically, and effectively, decide between design choices; examples of such are common in advertisement/visual selections (e.g. A/B testing). However, due to the mechanics of the business, such an approach would not be practical. 
   
