@@ -1,6 +1,6 @@
 # Classification of eBook Ratings by Cover
 ## Problem & Motivations
-I publish eBooks on Amazon's Kindle store. One of the struggles in the business is to identify what covers to use when publishing a story. The current decision-making approach is based off of intuition and subjective preference. Typically, hypothesis testing and other approaches would be used to more systematically, and effectively, decide between design choices; examples of such are common in advertisement/visual selections (e.g. A/B testing). However, due to the mechanics and scale of the business, such an approach would not be practical. 
+I publish eBooks on Amazon's Kindle store. One of the struggles in the business is to identify what covers to use when publishing a story. The current decision-making approach is based off of intuition and subjective preference. Typically, hypothesis testing and other approaches would be used to more systematically, and effectively, decide between design choices; examples of such are common in advertisement/visual selections (e.g. A/B testing). However, due to the mechanics of the business, such an approach would not be practical. 
   
 This project is an attempt to evaluate the relationship, if any, between eBook covers and their ratings. The problem is addressed by collecting eBook images and their ratings (4* or 5*). If a relationship does exist, this allows us to explore potential classification models that can predict how well a cover would perform. Ultimately, this would allow for a more methodical approach for cover selections.
 
